@@ -13,11 +13,12 @@
   </keywords>
   <boards>
     <board vendor="L-Tek" name="FF_LPC546XX">
-      <description>The L-Tek FF-LPC546XX is a small, 40-pin development board intended for prototyping general microcontroller applications. It is based on a low power, peripheral rich and debug capable NXP LPC54606 microcontroller, enhanced with power efficient 220 MHz ARM® Cortex®-M4 core, with integrated DAPLink interface for complete debugging experience.</description>
-      <mountedDevice Dname="LPC54606J512" Dvendor="NXP:11"/>	  
-	  <book category="manual" name="docs/L-Tek-A4-Technical-Specification-FF-LPC546XX-15.pdf" title="Manual" />
-	  <book category="overview" name="docs/L-Tek-A4-Inlay-FF-LPC546XX-10.pdf" title="Pinout" />
-	  <image small="img/ff_lpc546xx.png" />
+      <description>The L-Tek FF-LPC546XX is a small, 40-pin development board intended for prototyping general microcontroller applications. It is based on a low power, peripheral rich and debug capable NXP LPC54606 microcontroller with integrated DAPLink interface for complete debugging experience.</description>
+      <image small="img/ff_lpc546xx.png"  large="img/ff_lpc546xx.png"/>
+      <book category="other" name="docs/L-Tek-A4-Technical-Specification-FF-LPC546XX-15.pdf" title="Manual" />
+      <book category="other" name="docs/L-Tek-A4-Inlay-FF-LPC546XX-10.pdf" title="Pinout" /> 
+      <mountedDevice    Dname="LPC54606J512" Dvendor="NXP:11"/>
+      <compatibleDevice Dname="LPC54608J512" Dvendor="NXP:11" />	  
     </board>
   </boards>
   <requirements>
@@ -31,7 +32,6 @@
       <require Cclass="Device" Cgroup="Startup"/>
       <require Cclass="Device" Cgroup="SDK Drivers" Csub="clock"/>
       <require Cclass="Device" Cgroup="SDK Drivers" Csub="common"/>
-      <require Cclass="Device" Cgroup="SDK Drivers" Csub="emc"/>
       <require Cclass="Device" Cgroup="SDK Drivers" Csub="flexcomm"/>
       <require Cclass="Device" Cgroup="SDK Drivers" Csub="usart"/>
       <require Cclass="Device" Cgroup="SDK Drivers" Csub="gpio"/>
