@@ -4,7 +4,7 @@
   <name>FF_LPC546XX_BSP</name>
   <description>Board Support Pack for FF_LPC546XX</description>
   <license>Licenses.txt</license>
-  <url>https://github.com/L-Tek/FF-LPC546XX/tree/master/CMISIS-PACK/REPO/</url>
+  <url>https://github.com/L-Tek/FF-LPC546XX/raw/master/CMISIS-PACK/REPO/</url>
   <releases>
     <release version="1.0.0" date="2018-06-21">L-Tek CMSIS pack based on LPCXpresso54608_BSP.</release>
   </releases>
@@ -27,7 +27,6 @@
   </requirements>
   <conditions>
     <condition id="project_template.FF_LPC546XX">
-      <accept Dvendor="NXP:11" Dname="LPC5460*J512*"/>
       <require Cclass="CMSIS" Cgroup="CORE" Cversion="5.0.1"/>
       <require Cclass="Device" Cgroup="Startup"/>
       <require Cclass="Device" Cgroup="SDK Drivers" Csub="clock"/>
@@ -66,7 +65,7 @@
   </examples>
   <components>
     <component Cclass="Board Support" Cgroup="SDK Project Template" Csub="project_template" Cversion="1.0.0" Cvariant="FF_LPC546XX"  condition="project_template.FF_LPC546XX">
-      <description></description>
+      <description>Project Template</description>
       <files>
 	    <file name="project_template/board.c" category="sourceC" version="1.0.0" attr="config"/>
         <file name="project_template/board.h" category="header" version="1.0.0" attr="config"/>
