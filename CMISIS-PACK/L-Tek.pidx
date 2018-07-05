@@ -5,6 +5,6 @@
   <timestamp>2018-07-05T15:00:10.7300074+00:00</timestamp>
   <pindex>
     <pdsc url="https://github.com/L-Tek/FF-LPC546XX/raw/master/CMISIS-PACK/REPO/" vendor="L-Tek" name="FF_LPC546XX_BSP" version="1.0.0"/>
-	<pdsc url="https://github.com/L-Tek/FF-LPC546XX/raw/master/CMISIS-PACK/REPO/" vendor="L-Tek" name="FF_LPC546XX_BSP" version="1.0.1"/>
+    <pdsc url="https://github.com/L-Tek/FF-LPC546XX/raw/master/CMISIS-PACK/REPO/" vendor="L-Tek" name="FF_LPC546XX_BSP" version="1.0.1"/>
   </pindex>
 </index>
