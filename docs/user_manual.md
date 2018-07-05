@@ -1,6 +1,6 @@
 ## User Guide
 
-This document describes how to create a new project in uVision IDE.
+This document describes how to create a new project for **L-Tek FF-LPC546XX** in uVision IDE.
 
 
 * **Select device.**
