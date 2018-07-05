@@ -7,7 +7,7 @@
   <url>https://github.com/L-Tek/FF-LPC546XX/raw/master/CMISIS-PACK/REPO/</url>
   <releases>
     <release version="1.0.0" date="2018-06-21">L-Tek CMSIS pack based on LPCXpresso54608_BSP.</release>
-	<release version="1.0.1" date="2018-07-05">Add user manual and pinout picture.</release>
+    <release version="1.0.1" date="2018-07-05">Add user manual and pinout picture.</release>
   </releases>
   <keywords>
     <keyword>Board Support Pack</keyword>
@@ -18,7 +18,7 @@
       <image small="img/ff_lpc546xx.png"  large="img/ff_lpc546xx.png"/>
       <book category="other" name="docs/L-Tek-A4-Technical-Specification-FF-LPC546XX-15.pdf" title="Specification"/>
       <book category="other" name="docs/L-Tek-A4-Inlay-FF-LPC546XX-10.pdf" title="Flyer"/>
-	  <book category="other" name="https://github.com/L-Tek/FF-LPC546XX/tree/master/docs/user_manual.md" title="Pinout"/>
+      <book category="other" name="https://github.com/L-Tek/FF-LPC546XX/tree/master/docs/user_manual.md" title="Pinout"/>
       <mountedDevice    Dname="LPC54606J512" Dvendor="NXP:11"/>
       <compatibleDevice Dname="LPC54608J512" Dvendor="NXP:11"/>
     </board>
