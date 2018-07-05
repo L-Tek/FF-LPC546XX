@@ -5,7 +5,7 @@ This document describes how to create a new project in uVision IDE.
 
 * **Select device.**
 
-   ![](img/01.PNG)
+   ![](img/00.PNG)
 
 * **In run-time environment select the following components.**
 
