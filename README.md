@@ -7,7 +7,7 @@ The L-Tek FF-LPC546XX is a small, 40-pin development board intended for prototyp
 
 This repo contains:
 
-* [Board Bupport Pack](CMISIS-PACK/REPO/) for L-Tek FF-LPC546XX for uVision IDE. 
+* [Board Support Pack](CMISIS-PACK/REPO/) for L-Tek FF-LPC546XX for uVision IDE. 
 
 * [User Manual](docs/user_manual.md)
 
