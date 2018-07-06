@@ -50,8 +50,6 @@ You need:
     
  
 * **Add scf file.**
-
-  ![](img/04.PNG)
   
   ![](img/05.PNG)
   
