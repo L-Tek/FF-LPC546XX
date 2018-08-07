@@ -6,8 +6,9 @@
   <license>Licenses.txt</license>
   <url>https://github.com/L-Tek/FF-LPC546XX/raw/master/CMISIS-PACK/REPO/</url>
   <releases>
-    <release version="1.0.0" date="2018-06-21">L-Tek CMSIS pack based on LPCXpresso54608_BSP.</release>
+    <release version="1.0.2" date="2018-08-07">Add small and large picture of the board.</release>
     <release version="1.0.1" date="2018-07-05">Add user manual and pinout picture.</release>
+    <release version="1.0.0" date="2018-06-21">L-Tek CMSIS pack based on LPCXpresso54608_BSP.</release>
   </releases>
   <keywords>
     <keyword>Board Support Pack</keyword>

@@ -2,8 +2,9 @@
 <index schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
   <vendor>L-Tek</vendor>
   <url>https://github.com/L-Tek/FF-LPC546XX/raw/master/CMISIS-PACK/</url>
-  <timestamp>2018-08-06T15:00:10.7300074+00:00</timestamp>
+  <timestamp>2018-08-07T15:00:10.7300074+00:00</timestamp>
   <pindex>
+    <pdsc url="https://github.com/L-Tek/FF-LPC546XX/raw/master/CMISIS-PACK/REPO/" vendor="L-Tek" name="FF_LPC546XX_BSP" version="1.0.2"/>
     <pdsc url="https://github.com/L-Tek/FF-LPC546XX/raw/master/CMISIS-PACK/REPO/" vendor="L-Tek" name="FF_LPC546XX_BSP" version="1.0.1"/>
     <pdsc url="https://github.com/L-Tek/FF-LPC546XX/raw/master/CMISIS-PACK/REPO/" vendor="L-Tek" name="FF_LPC546XX_BSP" version="1.0.0"/>
   </pindex>
